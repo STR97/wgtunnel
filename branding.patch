@@ -1,0 +1,96 @@
+diff --git a/README.md b/README.md
+index 0e0e15a..b2f8190 100644
+--- a/README.md
++++ b/README.md
+@@ ... @@
+-<h1 align="center">
+-WG Tunnel
+-</h1>
++<h1 align="center">
++STR BYPASS
++</h1>
+@@ ... @@
+-Help translate WG Tunnel into your language
+-at [Hosted Weblate](https://hosted.weblate.org/engage/wg-tunnel/).\
+-[![Translation status](https://hosted.weblate.org/widgets/wg-tunnel/-/multi-auto.svg)](https://hosted.weblate.org/engage/wg-tunnel/)
++Help translate STR BYPASS into your language
++at [Hosted Weblate](https://hosted.weblate.org/engage/wg-tunnel/).\
++[![Translation status](https://hosted.weblate.org/widgets/wg-tunnel/-/multi-auto.svg)](https://hosted.weblate.org/engage/wg-tunnel/)
+@@ ... @@
+-## About
+-Inspired by the official [wireguard-android](https://github.com/WireGuard/wireguard-android) app, WG Tunnel was created to address features and support missing from the official app. This app combines support for both [WireGuard](https://www.wireguard.com/)
+-and [AmneziaWG](https://docs.amnezia.org/documentation/amnezia-wg/), with its primary feature of auto-tunneling (on-demand tunneling).
++## About
++Inspired by the official [wireguard-android](https://github.com/WireGuard/wireguard-android) app, STR BYPASS was created to address features and support missing from the official app. This app combines support for both [WireGuard](https://www.wireguard.com/)
++and [AmneziaWG](https://docs.amnezia.org/documentation/amnezia-wg/), with its primary feature of auto-tunneling (on-demand tunneling).
+@@ ... @@
+diff --git a/fastlane/metadata/android/en-US/title.txt b/fastlane/metadata/android/en-US/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/en-US/title.txt
++++ b/fastlane/metadata/android/en-US/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/de-DE/title.txt b/fastlane/metadata/android/de-DE/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/de-DE/title.txt
++++ b/fastlane/metadata/android/de-DE/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/it-IT/title.txt b/fastlane/metadata/android/it-IT/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/it-IT/title.txt
++++ b/fastlane/metadata/android/it-IT/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/no-NO/title.txt b/fastlane/metadata/android/no-NO/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/no-NO/title.txt
++++ b/fastlane/metadata/android/no-NO/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/pl-PL/title.txt b/fastlane/metadata/android/pl-PL/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/pl-PL/title.txt
++++ b/fastlane/metadata/android/pl-PL/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/ru-RU/title.txt b/fastlane/metadata/android/ru-RU/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/ru-RU/title.txt
++++ b/fastlane/metadata/android/ru-RU/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/tr-TR/title.txt b/fastlane/metadata/android/tr-TR/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/tr-TR/title.txt
++++ b/fastlane/metadata/android/tr-TR/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/cs-CZ/title.txt b/fastlane/metadata/android/cs-CZ/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/cs-CZ/title.txt
++++ b/fastlane/metadata/android/cs-CZ/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/id/title.txt b/fastlane/metadata/android/id/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/id/title.txt
++++ b/fastlane/metadata/android/id/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
+diff --git a/fastlane/metadata/android/hu-HU/title.txt b/fastlane/metadata/android/hu-HU/title.txt
+index 5b6b5f7..31d9b05 100644
+--- a/fastlane/metadata/android/hu-HU/title.txt
++++ b/fastlane/metadata/android/hu-HU/title.txt
+@@ ... @@
+-WG Tunnel
++STR BYPASS
